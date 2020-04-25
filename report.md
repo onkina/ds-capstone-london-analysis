@@ -63,6 +63,14 @@ After made analysis, we can examine each cluster and determine the discriminatin
 - +Average Public Transport Accessibility score, 2014 (from london_details dataframe)
 - +Crime rates per thousand population 2014/15 (from london_details dataframe)
 
+<b>Some visualisation plots:</b>
+
+<img src="https://github.com/onkina/ds-capstone-london-analysis/blob/master/poverty.png">Poverty by Boroughs</img>
+<br>
+<img src="https://github.com/onkina/ds-capstone-london-analysis/blob/master/poverty.png">Unemployment ratio by Boroughs</img>
+<br>
+<img src="https://github.com/onkina/ds-capstone-london-analysis/blob/master/correlation.png">Correlation between indicators</img>
+
 ## Demographic indicators Correlation matrix observations:
 
 There is a strong positive correlation between:
@@ -79,8 +87,10 @@ Unsurprisingly, that there is a strong negative correlation between:
 
 ## Cluster Observations / Conclusions
 
-As far as we have an interactive map with clustered boroughs data, we can characterize every cluster.
-This information will be useful for people moving to London and considering where to settle. 
+As far as we have an interactive map (check the notebook) with clustered boroughs data, we can characterize every cluster.
+This information will be useful for people moving to London and considering where to settle.
+
+<img src="https://github.com/onkina/ds-capstone-london-analysis/blob/master/Screen%20Shot%202020-04-25%20at%2016.34.38.png">
 
 ### Cluster 0 (red)
 
