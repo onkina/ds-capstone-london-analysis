@@ -8,7 +8,8 @@ All of the immigrants face the challenge to find a new living place in an unknow
 Greater London is a ceremonial county of England that makes up the majority of the London region. This region forms the administrative boundaries of London and is organized into 33 local government districts  -  the 32 London boroughs and the City of London, which is located within the region but is separate from the county.<BR><BR>
 The City of London is widely referred to simply as the City and is also colloquially known as the Square Mile, as it is 1.12 sq mi (716.80 acres; 2.90 km2) in area. Due to the City of London's small resident population (8706 people only), most open statistical reports lack the data for this area, so we are not able to include it in most indicators.<BR><BR>
 As a result, it will be not ranked alongside other London local authorities, as the comparisons would be misleading.
-In this post, I will describe how I resolved the task of London Boroughs analysis using public datasets, Foursquare API and python popular libraries. I will come up with a conclusion about what you should pay attention to when moving, based on your budget and infrastructure preferences.
+In this post, I will describe how I resolved the task of London Boroughs analysis using public datasets, Foursquare API and python popular libraries. I will come up with a conclusion about what you should pay attention to when moving, based on your budget and infrastructure preferences.<br><br>
+<b>This London Boroughs Analysis will be useful for everyone who faces the challenge to select where to settle in a new city.</b>
 
 # B. Data section
     
